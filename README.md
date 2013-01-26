@@ -5,7 +5,7 @@ Simple class for generate captcha image.
 Sample usage:
 
 ```php
-    file: image.php
+  	file: image.php
 		$captcha = new Captcha;
 		$captcha -> image();
 
